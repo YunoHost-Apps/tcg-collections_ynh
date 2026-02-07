@@ -44,7 +44,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://codeload.github.com/Guimove/tcg-collections/zip/75e27fc64ec9235ec1da9e5c02d31460bbb65747"
-    sha256 = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+    sha256 = "99db779ce2a50bafd28f67705ec6d48011293a0d2b463ec969ef658e3bfa09cb"
     autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
